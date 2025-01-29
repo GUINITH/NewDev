@@ -1,1 +1,1 @@
-Projeto New Dev, para exercitar um pouco de CSS
+Projeto New Dev, para exercitar um pouco de HTML E CSS.
